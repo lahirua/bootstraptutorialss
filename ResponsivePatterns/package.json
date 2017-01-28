@@ -1,0 +1,15 @@
+{
+  "name": "responsivepatterns",
+  "version": "1.0.0",
+  "description": "Pluralsight Responsive Patterns Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lahiru Ananda",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
+}
